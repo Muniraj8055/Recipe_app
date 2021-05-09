@@ -5,7 +5,7 @@ This is a simple food recipe search app, you can search a food and you will get 
 
 ### Demo  
 
-makerecipe.netlify.app
+https://makerecipe.netlify.app/
 
 ### Screenshots
 
